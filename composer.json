@@ -1,0 +1,12 @@
+{
+    "name": "pmbuji/penerimaan-mahasiswa",
+    "description": "Sistem Penerimaan Mahasiswa Baru Universitas Nusantara",
+    "type": "project",
+    "require": {
+        "php": ">=7.4",
+        "tecnickcom/tcpdf": "^6.6"
+    },
+    "autoload": {
+        "classmap": []
+    }
+}
